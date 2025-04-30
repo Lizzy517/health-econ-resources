@@ -56,3 +56,6 @@ Find dataset: https://datasetsearch.research.google.com
 ### China
 - China Nutrition and Health Surveys (1982−2017) :[China Nutrition and Health Surveys](https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.058)
 - China CDC Weekly [中国疾病预防控制中心周报](https://weekly.chinacdc.cn/index.htm)
+
+## Other interesting stuff
+- [A Stata package for administrative boundary data](https://github.com/asjadnaqvi/stata-geoboundary)
