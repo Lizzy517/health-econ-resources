@@ -26,12 +26,14 @@ J-PAL: https://www.povertyactionlab.org/research-resources?view=toc
 
 ## Databases
 If you want to brief yourself with a brand new area, check out: [our world in data](https://ourworldindata.org)
+Find dataset: https://datasetsearch.research.google.com
 
 - Data list from AEA [World and Non-US Data](https://www.aeaweb.org/resources/data/intl/intl-more)
 - World Values Survey [World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp)
 - Health Inequalities portal: [Resource Database](https://health-inequalities.eu/resources/jwddb/)
 
 - IPUMS: https://www.ipums.org/
+- NBER datasets: http://www.nber.org/data/
 - J-PAL [Catalog of Administrative Data Sets](https://www.povertyactionlab.org/catalog-administrative-data-sets)
 - Wisconsin Longitudinal Study (WLS): https://wls.wisc.edu/
 - [Wharton Research Data Services](https://wrds-www.wharton.upenn.edu/)
@@ -45,6 +47,7 @@ If you want to brief yourself with a brand new area, check out: [our world in da
   
 - [Pew Research Center](https://www.pewresearch.org/internet/datasets/)
 - The GDELT Project: https://www.gdeltproject.org/data.html
+- Kaggle Datasets: https://www.kaggle.com/datasets
   
 - European Social Survey (ESS)：https://www.europeansocialsurvey.org/
 - English Longitudinal Study of Ageing: https://www.elsa-project.ac.uk/
