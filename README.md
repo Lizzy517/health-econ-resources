@@ -19,6 +19,7 @@ https://www.rxcomms.com/blog/top-health-economics-journals
 ## Forum
 - [IHEA](https://healtheconomics.org/sigs/)
 - Mental Health Foundation: https://www.mentalhealth.org.uk/
+- [Economics of Health Program](https://www.nber.org/programs-projects/programs-working-groups/economics-health?page=1&perPage=50)
 
 
 ## Study Materials
