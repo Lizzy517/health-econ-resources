@@ -58,5 +58,11 @@ Find dataset: https://datasetsearch.research.google.com
 - China Nutrition and Health Surveys (1982−2017) :[China Nutrition and Health Surveys](https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.058)
 - China CDC Weekly [中国疾病预防控制中心周报](https://weekly.chinacdc.cn/index.htm)
 
+## Writings
+- [Writing Tips for Crafting Effective Economics Research Papers – 2023-2024 Edition](https://docs.iza.org/dp16276.pdf)
+
 ## Other interesting stuff
 - [A Stata package for administrative boundary data](https://github.com/asjadnaqvi/stata-geoboundary)
+
+## Advice on Applying to a PhD program
+- [Applying to PhD Programs in Economics: An Extensive Guide](https://drive.google.com/file/d/1cTb8enoUZxFKscidXYwojK3bXSjb7dxr/view)
