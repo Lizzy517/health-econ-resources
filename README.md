@@ -64,5 +64,6 @@ Find dataset: https://datasetsearch.research.google.com
 ## Other interesting stuff
 - [A Stata package for administrative boundary data](https://github.com/asjadnaqvi/stata-geoboundary)
 
-## Advice on Applying to a PhD program
+## Advice
 - [Applying to PhD Programs in Economics: An Extensive Guide](https://drive.google.com/file/d/1cTb8enoUZxFKscidXYwojK3bXSjb7dxr/view)
+- [Advice for Phd Students in Economics](https://sites.google.com/view/econgradadvice/)
