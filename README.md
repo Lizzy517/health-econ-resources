@@ -28,6 +28,7 @@ J-PAL: https://www.povertyactionlab.org/research-resources?view=toc
 ## Databases
 If you want to brief yourself with a brand new area, check out: [our world in data](https://ourworldindata.org)
 Find dataset: https://datasetsearch.research.google.com
+Very powerful dataset!!!: https://www.kaggle.com/datasets/Cornell-University/arxiv
 
 - Data list from AEA [World and Non-US Data](https://www.aeaweb.org/resources/data/intl/intl-more)
 - World Values Survey [World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp)
