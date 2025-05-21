@@ -36,6 +36,7 @@ Very powerful dataset!!!: https://www.kaggle.com/datasets/Cornell-University/arx
 - World Values Survey [World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp)
 - Health Inequalities portal: [Resource Database](https://health-inequalities.eu/resources/jwddb/)
 
+- Centers for Disease Control and Prevention, Nation Center for Health Statistics [National Health and Nutrition Examination Survey](https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Component=Dietary&Cycle=2017-2018)
 - IPUMS: https://www.ipums.org/
 - NBER datasets: http://www.nber.org/data/
 - J-PAL [Catalog of Administrative Data Sets](https://www.povertyactionlab.org/catalog-administrative-data-sets)
