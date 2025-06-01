@@ -56,12 +56,17 @@ Very powerful dataset!!!: https://www.kaggle.com/datasets/Cornell-University/arx
   
 - European Social Survey (ESS)：https://www.europeansocialsurvey.org/
 - English Longitudinal Study of Ageing: https://www.elsa-project.ac.uk/
+- SHARE: https://share-eric.eu/
+
+- Cancer Research Horizon, [OPTIMAM mammography image database (OMI-DB)](https://www.cancerresearchhorizons.com/our-portfolio/our-licensing-opportunities/optimam-mammography-image-database-omi-db)
+
 
 
 ### China
 - China Nutrition and Health Surveys (1982−2017) :[China Nutrition and Health Surveys](https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2021.058)
 - China CDC Weekly [中国疾病预防控制中心周报](https://weekly.chinacdc.cn/index.htm)
 - [国家人口与健康科学数据共享平台](https://www.bmicc.cn/web/share/home)
+- CHARLES
 
 ## Writings
 - [Writing Tips for Crafting Effective Economics Research Papers – 2023-2024 Edition](https://docs.iza.org/dp16276.pdf)
