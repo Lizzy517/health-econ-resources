@@ -60,7 +60,7 @@ Very powerful dataset!!!: https://www.kaggle.com/datasets/Cornell-University/arx
 - National Center for Health Statistics [National Health and Nutrition Examination Survey](https://wwwn.cdc.gov/nchs/nhanes/default.aspx)
 
 - Cancer Research Horizon, [OPTIMAM mammography image database (OMI-DB)](https://www.cancerresearchhorizons.com/our-portfolio/our-licensing-opportunities/optimam-mammography-image-database-omi-db)
-
+- [Open data on AWS](https://registry.opendata.aws)
 
 
 ### China
